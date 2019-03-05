@@ -53,6 +53,8 @@ public class Player {
         return bet;
     }
 
+
+
     public void reset(){
         bet = 0;
         hand.discardCards();
